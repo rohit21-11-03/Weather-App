@@ -1,0 +1,1 @@
+weather app retrieves real-time weather data using the OpenWeatherMap API, processes it through a Node.js and Express.js backend, and displays it with a responsive React.js-based frontend styled with Bootstrap.
